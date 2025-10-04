@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Hello from qa"
+  contactDetails:
+    name: sili pili
+    email: info@easybytes.com
+  onCallSupport:
+    +(123)4567890
+    +5676888998
