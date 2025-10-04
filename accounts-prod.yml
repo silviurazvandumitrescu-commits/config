@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Hello from prod"
+  contactDetails:
+    name: sili pilica
+    email: info@easybytes.com
+  onCallSupport:
+    +(123)4567890
+    +(567)6888998
