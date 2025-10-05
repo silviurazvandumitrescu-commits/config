@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Hello from prodtion silviu"
+  message: "Hello baaaaaa silviu"
   contactDetails:
     name: sili ica
     email: "{cipher}d1bafdeeaaa1cea5f6c8d423f38a97df40d24bf98e26fb8ffc9fab4f1c3e0f443aa94c1850ca75bf08e92e4a489ce49e"
@@ -10,6 +10,7 @@ accounts:
     +(123)4567890
 
     +(567)6888998
+
 
 
 
