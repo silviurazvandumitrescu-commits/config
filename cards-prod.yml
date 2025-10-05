@@ -1,8 +1,8 @@
-build:
+ cebuild:
   version: "1.0"
 
 cards:
-  message: "Welcome cacas web APIs "
+  message: "Welcome de ce APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
